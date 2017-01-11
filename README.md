@@ -2,6 +2,6 @@
 ## this will be our first git project
 ````bash
 echo "test"
-````java
+```java
 System.out.println("something coded in java")
 `````
